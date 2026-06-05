@@ -1,0 +1,26 @@
+> sessionInfo()
+R version 4.3.1 (2023-06-16)
+Platform: x86_64-conda-linux-gnu (64-bit)
+Running under: Ubuntu 18.04.6 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/ingrid/miniconda3/lib/libopenblasp-r0.3.29.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=es_AR.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=es_AR.UTF-8        LC_COLLATE=es_AR.UTF-8    
+ [5] LC_MONETARY=es_AR.UTF-8    LC_MESSAGES=es_AR.UTF-8   
+ [7] LC_PAPER=es_AR.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=es_AR.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: America/Argentina/Salta
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.1
+> 
+> 
