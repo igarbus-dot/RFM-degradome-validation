@@ -2,7 +2,7 @@
 
 R scripts for computational validation of the Regulatory Flux Model introduced in:
 
-> [AUTHORS] (2026). Degradome Sequencing in Plants: From Cleavage Mapping to Regulatory Flux Modeling. *[JOURNAL]*. DOI: [INSERT UPON PUBLICATION]
+> Garbus Ingrid (2026). Degradome Sequencing in Plants: From Cleavage Mapping to Regulatory Flux Modeling. *[JOURNAL]*. DOI: [INSERT UPON PUBLICATION]
 
 ## Description
 
@@ -17,7 +17,7 @@ The Regulatory Flux Model (RFM) integrates degradome cleavage signal intensity w
 > 
 > R scripts for computational validation of the Regulatory Flux Model introduced in:
 > 
-> > [AUTHORS] (2026). Degradome Sequencing in Plants: From Cleavage Mapping to Regulatory Flux Modeling. *[JOURNAL]*. DOI: [INSERT UPON PUBLICATION]
+> > Garbus Ingrid  (2026). Degradome Sequencing in Plants: From Cleavage Mapping to Regulatory Flux Modeling. *[JOURNAL]*. DOI: [INSERT UPON PUBLICATION]
 > 
 > ## Description
 > 
