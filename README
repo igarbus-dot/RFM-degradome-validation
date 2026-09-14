@@ -30,6 +30,11 @@ data/
   dataset3_rfm_classified.csv      Shin et al. 2018, 108 pairs
 ```
 
+The three CSV files in `data/` are the classified miRNA-target tables underlying
+Tables 3 and 4 and Figure 6. Columns: `gene`, `miRNA`, `DegradomeCategory`,
+`rpkm`, `CS`, `T`, `zone`. Copy them into `$BASE_DIR/results/` to reproduce the
+classification without re-running the upstream sequencing pipeline.
+
 The upstream steps (SRA retrieval, CleaveLand4, STAR, featureCounts) are fully
 specified in Section 9 of the manuscript: accessions, software versions, and all
 non-default parameters. Only `prepare_degradome_inputs.sh` is included here,
